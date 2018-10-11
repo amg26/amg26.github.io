@@ -13,7 +13,7 @@ name                     : &name "Andrew Gagen"
 description              : &description "Computer Science Student at University of Pittsburgh"
 url                      : https://amg26.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amg26/amg26"
+repository               : "amg26/amg26.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
